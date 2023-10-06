@@ -1,0 +1,16 @@
+{
+    "name": "ADikt.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7cb77e809a53c4d88887a954ce46f9df"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
